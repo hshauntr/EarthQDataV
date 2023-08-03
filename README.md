@@ -11,17 +11,20 @@ By developing this earthquake data visualization application, we contribute valu
 ## Objective 
 The main aim of this data science project is to create a user-friendly application with a graphical interface to visualize earthquake data. The application will display the location and magnitude of significant earthquakes from various parts of the world over several decades. Our goals are as follows:
 
-1. Develop an intuitive GUI that allows users to input a specific year and view a detailed world map highlighting significant earthquakes for that chosen year.
-2. Provide historical trends of earthquake occurrences and emphasize the selected year's seismic activity on the map.
-3. Ensure smooth functionality, allowing users to explore earthquake data for different years without the need to restart the application.
+1. Read a .csv that has 23,413 entries of information for Date, Time, Latitude, Longitude, Type, Depth, DepthError, DepthSeismicStations, Magnitude, MagnitudeType, MagnitudeError. MagnitudeSeismicStations, AzimuthalGap, HorizontalDistance, HorizontalError, RootMeanSquare, ID, Source, LocationSource, MagnitudeSource & Status.
+2. Develop an intuitive GUI that allows users to input a specific year and view a detailed world map highlighting significant earthquakes for that chosen year.
+3. Provide historical trends of earthquake occurrences and emphasize the selected year's seismic activity on the map.
+4. Ensure smooth functionality, allowing users to explore earthquake data for different years without the need to restart the application.
 
-![GUI](assets/img/GUI.png)
+![csv file](assets/img/Excel.png)
 
 ## Conclusion
 
 Throughout this project on Earthquake Data Visualization, the primary objective of developing a user-friendly application with an intuitive graphical interface to analyze seismic activity has been successfully accomplished. By leveraging data science and advanced visualization techniques, the project transformed raw earthquake data into visually compelling and easily accessible representations.
 
 The GUI application serves as a powerful tool, catering to both researchers and the general public, enabling them to gain valuable insights into the distribution and patterns of significant earthquakes over an extensive time span. The flexibility to explore seismic data for different years empowers users to identify trends and correlations, facilitating a deeper comprehension of global seismic activity.
+
+![GUI](assets/img/GUI.png)
 
 One of the key strengths of this application is the seamless functionality, allowing users to analyze earthquake data without any disruptions. This feature enhances the user experience, facilitating in-depth investigations into historical trends and facilitating comprehensive earthquake analysis.
 
