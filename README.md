@@ -15,6 +15,8 @@ The main aim of this data science project is to create a user-friendly applicati
 2. Provide historical trends of earthquake occurrences and emphasize the selected year's seismic activity on the map.
 3. Ensure smooth functionality, allowing users to explore earthquake data for different years without the need to restart the application.
 
+![GUI](assets/img/GUI.png)
+
 ## Conclusion
 
 Throughout this project on Earthquake Data Visualization, the primary objective of developing a user-friendly application with an intuitive graphical interface to analyze seismic activity has been successfully accomplished. By leveraging data science and advanced visualization techniques, the project transformed raw earthquake data into visually compelling and easily accessible representations.
