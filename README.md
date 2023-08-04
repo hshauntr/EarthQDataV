@@ -8,6 +8,8 @@ The GUI application we are building aims to make earthquake data more understand
 
 By developing this earthquake data visualization application, we contribute valuable insights to researchers and the public, fostering a deeper understanding of global seismic activity and its changes over time. Our project showcases our proficiency in data handling, visualization, and creating practical, interactive applications for real-world applications.
 
+![](assets/img/earthquake.jpg)
+
 ## Objective 
 The main aim of this data science project is to create a user-friendly application with a graphical interface to visualize earthquake data. The application will display the location and magnitude of significant earthquakes from various parts of the world over several decades. Our goals are as follows:
 
